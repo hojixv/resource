@@ -1,0 +1,5 @@
+local Workspace = G:GetService("Workspace") =
+{
+    hojixv.lua --// or settings
+    hojixv.settings = https://raw.githubusercontent.com/hojixv/dahood/new/projects
+}
