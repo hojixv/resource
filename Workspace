@@ -1,9 +1,0 @@
-local Workspace = G:GetService("Workspace")
-
-local hojixv = {
-    lua = "settings",
-    settingsUrl = "https://raw.githubusercontent.com/hojixv/dahood/new/projects"
-}
-
-(hojixv.lua)
-(hojixv.settingsUrl)
